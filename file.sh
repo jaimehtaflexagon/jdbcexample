@@ -1,2 +1,3 @@
-echo $username;
-echo $password;
+#!/bin/bash
+ 
+echo "$username"
