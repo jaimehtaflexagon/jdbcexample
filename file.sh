@@ -1,0 +1,2 @@
+echo $username;
+echo $password;
